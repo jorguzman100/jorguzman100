@@ -47,7 +47,7 @@ My background is in global operations, which helps me collaborate smoothly acros
 
 | Project | What it is | Stack |
 |---|---|---|
-| [🛒 Marketplace](https://github.com/jorguzman100/marketplace) | Full-stack store with product management, seller/admin flows, Stripe checkout, and sales charts | MERN · Stripe · Chart.js |
+| [🛍️ Marketplace](https://github.com/jorguzman100/marketplace) | Full-stack store with product management, seller/admin flows, Stripe checkout, and sales charts | MERN · Stripe · Chart.js |
 | [🏎 RaceTrack](https://github.com/jorguzman100/racetrack) | Real-time race control with live state sync across operator and spectator screens | Node.js · Socket.io · Express |
 | [🍹 WikiDrinks](https://github.com/jorguzman100/wikidrinks) | Drink recipe finder pulling from multiple external APIs | JS · jQuery · CocktailDB · Giphy |
 | [💬 Forum](https://github.com/jorguzman100/forum) | Web forum with posts, categories, likes/dislikes, filtering — containerized | Go · SQLite · Docker |
