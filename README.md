@@ -2,6 +2,7 @@
 Building things is what gets me up in the morning.
 
 I'm currently a student at **[kood/Jõhvi](https://kood.tech/en/)** in Estonia, a project-based school where the focus is on shipping code and collaborating with peers. Before this, I completed an intensive 6-month Full-Stack Web Development bootcamp, so I've been heads-down in code for a while now.
+
 My background is in global operations, which helps me collaborate smoothly across teams, align expectations, and deliver consistently. I'm now looking for an entry-level role in tech where I can contribute to building/growing meaningful products.
 
 ---
