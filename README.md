@@ -89,7 +89,7 @@ I ask questions early to avoid blocking later 😉. I take deadlines and team ag
 
 Always happy to chat about code, projects, or just say hi. Drop a question [here](https://github.com/jorguzman100/jorguzman100/issues) or reach me at **jorguzman100@gmail.com**
 
-Mexican 🇲🇽, fuelled by tacos al pastor 🌮 and Latin dancing 🕺🏻
+Mexican 🇲🇽, fueled by tacos al pastor 🌮 and Latin dancing 🕺🏻
 
 <p align="center">
   <img src="https://komarev.com/ghpvc/?username=jorguzman100&label=Profile+views&color=0e75b6&style=flat" alt="profile views" />
