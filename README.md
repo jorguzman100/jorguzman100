@@ -79,10 +79,6 @@ I ask questions early to avoid blocking later 😉. I take deadlines and team ag
   <img src="https://streak-stats.demolab.com?user=jorguzman100&theme=tokyonight&hide_border=true&date_format=M%20j%5B%2C%20Y%5D" alt="GitHub Streak"/>
 </p>
 <p align="center">
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=jorguzman100&theme=tokyonight" />
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=jorguzman100&theme=tokyonight" />
-</p>
-<p align="center">
   <img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=jorguzman100&theme=tokyonight" />
   <img src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=jorguzman100&theme=tokyonight&utcOffset=2" />
 </p>
