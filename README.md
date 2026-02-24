@@ -1,7 +1,7 @@
 # Hi, I'm Jorge 👋
 Building things is what gets me up in the morning.
 
-I'm currently a student at **[kood/Jõhvi](https://kood.tech/en/)** in Estonia, a project-based school where the focus is on shipping code and collaborating with peers. Before this, I completed an intensive 6-month Full-Stack Web Development bootcamp, so I've been heads-down in code for a while now.
+I'm currently a student at **[kood/Jõhvi](https://kood.tech/en/)** in Estonia 🇪🇪, a project-based school where the focus is on shipping code and collaborating with peers. Before this, I completed an intensive 6-month Full-Stack Web Development bootcamp, so I've been heads-down in code for a while now.
 
 My background is in global operations, which helps me collaborate smoothly across teams, align expectations, and deliver consistently. I'm now looking for an entry-level role in tech where I can contribute to building/growing meaningful products.
 
@@ -89,7 +89,7 @@ I ask questions early to avoid blocking later 😉. I take deadlines and team ag
 
 Always happy to chat about code, projects, or just say hi. Drop a question [here](https://github.com/jorguzman100/jorguzman100/issues) or reach me at **jorguzman100@gmail.com**
 
-🌮 Fuelled by tacos al pastor and Latin dancing 🕺🏻
+Mexican 🇲🇽, fuelled by tacos al pastor 🌮 and Latin dancing 🕺🏻
 
 <p align="center">
   <img src="https://komarev.com/ghpvc/?username=jorguzman100&label=Profile+views&color=0e75b6&style=flat" alt="profile views" />
