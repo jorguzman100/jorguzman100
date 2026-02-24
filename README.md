@@ -1,10 +1,8 @@
 # Hi, I'm Jorge 👋
+Building things is what gets me up in the morning.
 
-Building things is what gets me up in the morning. 
-
-I am currently a student at **[kood/Jõhvi](https://kood.tech/en/)** in Estonia—a project-based school where the focus is on shipping real code and collaborating with peers. I’ve fallen in love with the IT community’s spirit of helping others and learning together, and I try to bring that same energy to every team I join. 
-
-My background is in global operations, which helps me collaborate smoothly across teams, align expectations, and deliver consistently. I’m now looking for an entry-level role where I can contribute to building meaningful products.
+I'm currently a student at **[kood/Jõhvi](https://kood.tech/en/)** in Estonia, a project-based school where the focus is on shipping code and collaborating with peers. Before this, I completed an intensive 6-month Full-Stack Web Development bootcamp, so I've been heads-down in code for a while now.
+My background is in global operations, which helps me collaborate smoothly across teams, align expectations, and deliver consistently. I'm now looking for an entry-level role in tech where I can contribute to building/growing meaningful products.
 
 ---
 
@@ -59,9 +57,9 @@ My background is in global operations, which helps me collaborate smoothly acros
 
 ### 🤝 How I like to work
 
-One thing I've loved about the dev community since I started is how open and supportive people are — sharing knowledge, asking questions without shame, helping each other debug at weird hours. That culture resonates with me a lot.
+Something I've genuinely loved about the dev community since day one is how open and supportive people are, sharing knowledge freely, asking questions without shame, helping each other debug at weird hours. That culture is very much my thing.
 
-I ask questions early rather than blocking late. I take deadlines and team agreements seriously. And I come from a background of working across cultures and time zones, so collaboration across borders feels natural. Feedback is always welcome.
+I ask questions early to avoid blocking later 😉. I take deadlines and team agreements seriously. And coming from a background of working across cultures and time zones, collaborating across borders feels natural to me. Feedback is always welcome!
 
 ---
 
@@ -79,12 +77,10 @@ I ask questions early rather than blocking late. I take deadlines and team agree
 <p align="center">
   <img src="https://streak-stats.demolab.com?user=jorguzman100&theme=tokyonight&hide_border=true&date_format=M%20j%5B%2C%20Y%5D" alt="GitHub Streak"/>
 </p>
-
 <p align="center">
   <img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=jorguzman100&theme=tokyonight" />
   <img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=jorguzman100&theme=tokyonight" />
 </p>
-
 <p align="center">
   <img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=jorguzman100&theme=tokyonight" />
   <img src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=jorguzman100&theme=tokyonight&utcOffset=2" />
@@ -101,5 +97,4 @@ Always happy to chat about code, projects, or just say hi. Drop a question [here
 <p align="center">
   <img src="https://komarev.com/ghpvc/?username=jorguzman100&label=Profile+views&color=0e75b6&style=flat" alt="profile views" />
 </p>
-
-<p align="center">Thanks for stopping by. Star repos if you liked any! ⭐ </p>
+<p align="center">Thanks for stopping by. Star repos if you liked any! ⭐</p>
